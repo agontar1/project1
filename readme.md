@@ -8,3 +8,13 @@
 - combining the commands >> git add .| git 
 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m 'comment'
 - git show - displays the moits (log)
+   79  git show
+   80  git log 
+   81  git list
+   82  clear
+   83  git branch 
+   84  git checkout -b andriy2
+   85  git checkout master
+   86  clear
+   87  history | tail
+   88  history | tail >> readme.md
