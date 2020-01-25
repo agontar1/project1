@@ -6,7 +6,7 @@
 - git add . 
 -git commit [D[D[D[D[D[D[D[D[D[D[D [C[Dg[2~i[C[Dt commit
 - combining the commands >> git add .| git 
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m 'comment'
+
 - git show - displays the moits (log)
    79  git show
    80  git log 
